@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/docker-message-server/docker-message-server.iml" filepath="$PROJECT_DIR$/docker-message-server/docker-message-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-product-server/docker-product-server.iml" filepath="$PROJECT_DIR$/docker-product-server/docker-product-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-docker.iml" filepath="$PROJECT_DIR$/spring-cloud-docker.iml" />
+    </modules>
+  </component>
+</project>
